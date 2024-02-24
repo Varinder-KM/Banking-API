@@ -29,3 +29,4 @@ To get started with the API, you will need to:
 
 
 ## Relational Diagram
+![diagram](https://github.com/Varinder-KM/Banking-API/blob/master/Capture.JPG)
